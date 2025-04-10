@@ -32,9 +32,9 @@ Here’s what I’m working with:
 ## 📊 My Stats
 Let’s see what I’ve been up to on GitHub!  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Trusha-7Span&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[[YourGitHubUsername]](https://github.com/Trusha-7Span)&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[[YourGitHubUsername]](https://github.com/Trusha-7Span)&theme=radical&hide_border=true)  
 
 ### WakaTime Coding Stats  
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=[YourWakaTimeUsername]&theme=radical&hide_border=true)  
@@ -44,20 +44,13 @@ Let’s see what I’ve been up to on GitHub!
 
 ## 🏆 Badges & Achievements
 Starting small, aiming big!  
-![Profile Views](https://komarev.com/ghpvc/?username=[YourGitHubUsername]&color=blueviolet)  
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Trusha-7Span&color=blueviolet)  
 <img src="https://img.shields.io/badge/ML%20Beginner-Exploring-orange?style=flat-square" alt="ML Beginner Badge"/>  
 <img src="https://img.shields.io/badge/Open%20Source-Learner-green?style=flat-square" alt="Open Source Badge"/>  
 
 ---
 
-## ✨ Projects Snapshot
-Here’s a peek at my work (more to come as I grow!):  
-- **[Project Name]**: A [short description, e.g., "Sentiment Analysis model using NLP and Python"]. [Link to repo]  
-  ![Project Image](https://via.placeholder.com/300x200.png?text=Project+Preview)  
-- **[Project Name]**: [e.g., "Image Classifier with TensorFlow"]. [Link to repo]  
-  ![Project Image](https://via.placeholder.com/300x200.png?text=Model+Output)  
 
----
 
 ## 📈 GitHub Trends I’m Following
 Keeping up with the latest in AI/ML:  
@@ -70,7 +63,7 @@ Keeping up with the latest in AI/ML:
 ## 🤝 Let’s Connect!
 I’d love to chat about AI/ML, collaborate on projects, or just geek out over data!  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/trusha khachariya)  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/trusha khachariya)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>](https://twitter.com/trushapatel216)  
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>](https://www.kaggle.com/trusha21)  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>]([https://github.com/](https://github.com/Trusha-7Span))  
