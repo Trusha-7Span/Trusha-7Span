@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Trusha-7Span/Trusha-7Span/main/assets/aiml-banner.gif" alt="AI ML Banner" width="100%" />
 
 
 <img src="https://raw.githubusercontent.com/Trusha-7Span/Trusha-7Span/main/assets/aiml-banner.gif" alt="AI ML Banner" width="100%" />
@@ -14,7 +13,7 @@
 🎓 I'm **Trusha**, a final-year B.E. student in **Computer Science & Engineering (AI & ML)**.  
 💡 I'm a curious mind exploring the world of **Machine Learning**, **Deep Learning**, and **Data Science**.  
 🚀 Building cool AI tools, currently working on **digit recognition** apps.  
-🔭 Open to internships, collaborations, and innovative projects!  
+
 
 ---
 
@@ -89,6 +88,4 @@ Check out my latest and most interesting work:
   <a href="mailto:trusha.example@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=200&section=footer"/>
