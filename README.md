@@ -54,28 +54,13 @@ Keeping up with the latest in AI/ML:
 
 ---
 
-## 📊 WakaTime Coding Stats  
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=radical&hide_border=true)  
-*Tracking my coding journey one line at a time!*  
-> Replace `yourWakaTimeUsername` above with your actual WakaTime username!
-
----
-
-## 🔥 Trending Projects
-
-Check out my latest and most interesting work:
-
-- 🔢 [Handwritten Digit Recognition](https://github.com/Trusha-7Span/Digit-Recognizer)
-- 🧠 [ML Algorithms from Scratch](https://github.com/Trusha-7Span/ml-from-scratch)
-- 🤖 [Flask-based AI App](https://github.com/Trusha-7Span/AI-WebApp)
 
 ---
 
 ## 📚 ML Libraries & Tools I Use
 
 - 📦 **Libraries**: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`, `keras`, `torch`, `nltk`, `spacy`
-- 🧰 **Tools**: `Jupyter`, `Google Colab`, `VS Code`, `Git`, `Heroku`, `Flask`
+- 🧰 **Tools**: `Jupyter`, `Google Colab`, `VS Code`, `Git`, 
 
 ---
 
