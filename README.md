@@ -1,5 +1,3 @@
-
-
 <img src="https://raw.githubusercontent.com/Trusha-7Span/Trusha-7Span/main/assets/aiml-banner.gif" alt="AI ML Banner" width="100%" />
 
 <p align="center">
@@ -12,15 +10,16 @@
 
 🎓 I'm **Trusha**, a final-year B.E. student in **Computer Science & Engineering (AI & ML)**.  
 💡 I'm a curious mind exploring the world of **Machine Learning**, **Deep Learning**, and **Data Science**.  
-🚀 Building cool AI tools, currently working on **digit recognition** apps.  
+🚀 Building cool AI tools, currently working on **digit recognition** apps and exploring new horizons in **Generative AI** and **AI Ethics**.
 
+🌱 **Currently learning**: MLOps, GANs, and the latest in **Transformers**.
 
 ---
 
 ## 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,sklearn,git,html,css,js,flask,sqlite,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,sklearn,git,html,css,js,flask,sqlite,vscode,html,css,aws,azure,docker" />
 </p>
 
 ---
@@ -45,14 +44,20 @@
 
 ---
 
-## 📈 GitHub Trends I’m Following
+## 🎯 Latest Projects
 
-Keeping up with the latest in AI/ML:  
-- ⚡ Experimenting with **Transformers** and **LLMs** (Large Language Models)  
-- 🧪 Exploring **MLOps** for scalable ML workflows  
-- 🌀 Diving into **Generative AI**—think GANs and beyond!
+### 🚀 **[Digit Recognition App](https://github.com/Trusha-7Span/Handwritten-Digit-Recognition)**
+A deep learning-powered web app to recognize handwritten digits with an MNIST model. Built with Flask, TensorFlow, and OpenCV.  
+🔧 **Tech Stack**: TensorFlow, Flask, OpenCV, JavaScript  
 
----
+### 🚀 **[AI PDF Text & Digit Recognition](https://github.com/Trusha-7Span/AI-PDF-Recognition)**
+PDF-based file processing with text and digit recognition using Tesseract.js and TensorFlow.js for browser-based applications.  
+🔧 **Tech Stack**: TensorFlow.js, Tesseract.js, HTML, JavaScript, PDF.js  
+
+
+### 🚀 **[ML CRUD Vector Database](https://github.com/Trusha-7Span/Vector-Database-CRUD)**
+A beginner-friendly vector database with CRUD operations for ML model storage and search operations.  
+🔧 **Tech Stack**: SQLite, Python, scikit-learn, numpy  
 
 
 ---
@@ -60,7 +65,7 @@ Keeping up with the latest in AI/ML:
 ## 📚 ML Libraries & Tools I Use
 
 - 📦 **Libraries**: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`, `keras`, `torch`, `nltk`, `spacy`
-- 🧰 **Tools**: `Jupyter`, `Google Colab`, `VS Code`, `Git`, 
+- 🧰 **Tools**: `Jupyter`, `Google Colab`, `VS Code`, `Git`, `AWS`, `Docker`, `Azure`
 
 ---
 
@@ -73,4 +78,46 @@ Keeping up with the latest in AI/ML:
   <a href="mailto:trusha.example@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Trusha-7Span&color=brightgreen)
+
+---
+## 🔥 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/Trusha-7Span/count.svg)
+
+---
+
+## 📂 Top Repositories
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trusha-7Span&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Tech Stack for My Projects
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=plastic&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0-FF6F00?style=plastic&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-v4.5-5C3EE8?style=plastic&logo=opencv)
+![Flask](https://img.shields.io/badge/Flask-1.1.2-000000?style=plastic&logo=flask)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=plastic&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-20.10.6-2496ED?style=plastic&logo=docker)
+
+---
+
+## 💬 Random Quote
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+![Quote](https://quotes.rest/qod?category=inspire&language=en)
+
+---
+
+## 🎧 Currently Listening To
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
